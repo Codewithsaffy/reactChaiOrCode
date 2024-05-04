@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10,
+    "image": "https://pics.craiyon.com/2023-11-14/NlTW2VCuTjmQCAncS8YKFA.webp"
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "price": 1199,
+    "image": "https://i.pcmag.com/imagery/reviews/04jlYF4fsF2M5cejiU8lw7G-2.fit_lim.size_840x473.v1685028816.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Car",
+    "price": 10000,
+    "image": "https://img.freepik.com/free-photo/sports-car-driving-asphalt-road-night-generative-ai_188544-8052.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Bannana",
+    "price": 60,
+    "image": "https://www.forbesindia.com/media/images/2022/Sep/img_193775_bananas.jpg"
+  }
+]
